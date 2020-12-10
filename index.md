@@ -29,9 +29,11 @@ Inaugural unit：**南京理工大学**
 Address：**玄武区孝陵卫街200号**
 
 >兴趣爱好：
-Basketball
-Painting
-Killers of the Three Kingdoms
+**Basketball**
+
+**Painting**
+
+**Killers of the Three Kingdoms**
 
 **Sorry to tell you that I haven't achieved any academic success.**
 
