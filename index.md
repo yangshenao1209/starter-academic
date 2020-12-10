@@ -12,8 +12,8 @@
 
 关于单位：
 
- <img src="http://zs.njust.edu.cn/c9/43/c13125a248131/page.htm" width="100%"> 
+ <img src="http://zs.njust.edu.cn/c9/43/c13125a248131/page.htm" width="50%"> 
 
- <img src="http://jiangyin.njust.edu.cn/a4/69/c13488a238697/page.htm" width="100%"> 
+ <img src="http://jiangyin.njust.edu.cn/a4/69/c13488a238697/page.htm" width="50%"> 
  
  地址：玄武区孝陵卫街200号
